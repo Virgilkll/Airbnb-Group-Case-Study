@@ -1,4 +1,4 @@
-# 🏡 Airbnb Data Analysis Case Study (NYC)
+# 🏡 Airbnb Market Trends Analysis – New York City
 
 ## 📌 Overview
 This project presents an end-to-end **Exploratory Data Analysis (EDA)** of Airbnb listings in New York City. The objective is to extract actionable insights on pricing, availability, and market trends to support data-driven decision-making.
