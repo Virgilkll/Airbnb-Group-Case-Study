@@ -7,7 +7,7 @@ It highlights key **Data Analyst / Data Scientist skills** such as data cleaning
 
 ---
 
-## 🎯 Business Problem
+# 🎯 Business Problem
 How can Airbnb hosts optimize **pricing and availability** to maximize occupancy and revenue?
 
 ---
